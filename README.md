@@ -1,4 +1,4 @@
 # FEniCS
 contribution to FEniCS
 
-This branch consists of modifications to the FEniCS code
+This branch consists of modifications to poisson codes
